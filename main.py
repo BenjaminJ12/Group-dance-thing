@@ -1,5 +1,6 @@
 #19/8/20
 #Hello Github
+#Int 2 practice
 nameArray = []  
 ticketArray = []
 
@@ -30,7 +31,7 @@ for counter in range(groupNumber):
 
   
 print('Group name: ', groupName)
-print('Number of folk: ', groupNumber)
+print('Number in group: ', groupNumber)
 
 for counter in range(groupNumber):
   print(nameArray[counter], ticketArray[counter])
